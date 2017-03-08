@@ -1,4 +1,4 @@
-**Deprecated:** Please look at https://github.com/focus-ring/ instead.
+**Deprecated:** Please look at https://github.com/wicg/focus-ring/ instead.
 
 Archived content below.
 
